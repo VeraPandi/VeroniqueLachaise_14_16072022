@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/VeroniqueLachaise_14_16072022/static/css/main.31d6cfe0.css",
+    "main.js": "/VeroniqueLachaise_14_16072022/static/js/main.0c6ffbc9.js",
+    "static/js/787.a7e5fa0a.chunk.js": "/VeroniqueLachaise_14_16072022/static/js/787.a7e5fa0a.chunk.js",
+    "index.html": "/VeroniqueLachaise_14_16072022/index.html",
+    "main.0c6ffbc9.js.map": "/VeroniqueLachaise_14_16072022/static/js/main.0c6ffbc9.js.map",
+    "787.a7e5fa0a.chunk.js.map": "/VeroniqueLachaise_14_16072022/static/js/787.a7e5fa0a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.0c6ffbc9.js"
+  ]
+}
